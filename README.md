@@ -1,4 +1,4 @@
-# Equation.art
+# Equation.Art
 
 ## This workshop belongs to Equation. 
 
