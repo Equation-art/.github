@@ -1,4 +1,3 @@
-# .github
 # Equation.art
 
 ## This workshop belongs to Equation. 
